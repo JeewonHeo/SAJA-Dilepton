@@ -1,0 +1,12 @@
+name: saja-dilep-py311-tmp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - pyyaml
+  - uproot
+  - tqdm
+  - pip
+  - pip:
+    - git+https://github.com/JeewonHeo/SAJA-Dilepton.git
