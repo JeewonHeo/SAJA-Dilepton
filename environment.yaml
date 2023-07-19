@@ -7,6 +7,7 @@ dependencies:
   - pyyaml
   - uproot
   - tqdm
+  - ipykernel
   - pip
   - pip:
     - git+https://github.com/JeewonHeo/SAJA-Dilepton.git
