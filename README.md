@@ -18,9 +18,9 @@ python3 tutorial_train.py
 
 ## Jupyter setup
 ```bash
-python -m ipykernel install --user --name saja-dilep-py311 --display-name "saja-dilep-py311"
+python3 -m ipykernel install --user --name saja-dilep-py311 --display-name "saja-dilep-py311"
 ```
-after this command you can find the kernel in your jupyter notebook
+after this command you can find the kernel named as 'saja-dilep-py311' in your jupyter notebook
 
 
 
