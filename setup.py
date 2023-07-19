@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='dilepton-saja',
-    version='dev',
+    version='0.0.1',
 
     url='https://github.com/JeewonHeo/SAJA-Dilepton/',
     author='Jeewon Heo',
