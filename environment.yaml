@@ -1,4 +1,4 @@
-name: saja-dilep-py311-tmp
+name: saja-dilep-py311
 channels:
   - conda-forge
 dependencies:
